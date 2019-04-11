@@ -1,0 +1,2 @@
+export const FETCH_SEARCH = 'FETCH_SEARCH';
+export const FETCH_USERNAME = 'FETCH_USERNAME';
